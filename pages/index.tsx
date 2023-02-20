@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <div className={styles.description}>
+        {/* <div className={styles.description}>
           <p>
             Get started by editing&nbsp;
             <code className={styles.code}>pages/index.tsx</code>
@@ -109,6 +109,9 @@ export default function Home() {
               Instantly deploy your Next.js site to a shareable URL with&nbsp;Vercel.
             </p>
           </a>
+        </div> */}
+        <div>
+          <h1>Gom Sp</h1>
         </div>
       </main>
     </>
